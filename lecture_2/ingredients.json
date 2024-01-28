@@ -1,0 +1,24 @@
+{
+    "Bolognese": {
+        "Step 1": "Olive oil",
+        "Step 2": "Chopped onion",
+        "Step 3": "Minced beef",
+        "Step 4": "Tomato sauce",
+        "Step 5": "Cooked spaghetti",
+        "Step 6": "Grated Parmesan cheese"
+    },
+    "Carbonara": {
+        "Step 1": "Pancetta",
+        "Step 2": "Eggs",
+        "Step 3": "Grated Pecorino Romano cheese",
+        "Step 4": "Cooked spaghetti",
+        "Step 5": "Ground black pepper"
+    },
+    "Amatriciana": {
+        "Step 1": "Guanciale",
+        "Step 2": "Red chili flakes",
+        "Step 3": "Tomato sauce",
+        "Step 4": "Cooked spaghetti",
+        "Step 5": "Grated Pecorino Romano cheese"
+    }
+}

@@ -6,7 +6,7 @@ def read_ingredients(file_path):
 
 def make_spaghetti(recipe_name, ingredients):
     if recipe_name in ingredients:
-        print(f"Making {recipe_name} Spaghetti with the following ingredients:")
+        print(f"Making {recipe_name} Spaghetti carbonara with the following ingredients:")
         for step, ingredient in ingredients[recipe_name].items():
             print(f"{step}: {ingredient}")
     else:

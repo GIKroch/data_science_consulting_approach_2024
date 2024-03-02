@@ -3,13 +3,7 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 from base_generator import BaseGenerator
-
-
-def random_date(year):
-    start = datetime(year, 1, 1)
-    end = datetime(year, 12, 31)
-    return start + (end - start) * random.random()
-
+from helpers import random_date
 
 class ProcurementGenerator(BaseGenerator):
     def __init__(self, year = 2023, num_orders = 100):
